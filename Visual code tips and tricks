@@ -1,0 +1,8 @@
+Box selection- Shift+DownArrow, Shift+Alt+middle mouse button
+Add cursor- Alt+click
+Create cursors on all occurances of a tring - ctrl+shift+L
+Acquire suggestion from IntelliSense- ctrl+space
+copy a line and insert above - shift+alt+downarrow
+move an entire line up - alt + uparrow
+delete the entire line - ch=trl + shift+k
+commment out a block code - ctrl+/
